@@ -1,5 +1,5 @@
  Pass function to method  
-*================================*  
+*==================*  
 
 Calculator example  
 
